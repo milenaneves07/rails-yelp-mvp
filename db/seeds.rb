@@ -5,3 +5,13 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+# puts "deletando"
+# puts "criando o db"
+# 10.times do
+#   restaurante = Restaurant.new(name: "Taco Bell", address: "haudhs", category:["chinese", "italian", "hsuahd", "french", "ioefouoiu"].sample)
+#     if restaurante.save
+#       puts "tudo certo!"
+#     else
+#       puts "deu ruim"
+#     end
+# end
